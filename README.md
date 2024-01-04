@@ -1,5 +1,5 @@
 # Helmet-Detection-using-YOLO-v8
-Helmet Detection using YOLOv8 with training using your own custom dataset in real-time
+Helmet Detection using YOLOv8 in real-time
 
 #Software Required:
 •	Operating System
@@ -9,5 +9,3 @@ Helmet Detection using YOLOv8 with training using your own custom dataset in rea
 •	Ultralytics YOLO v8 
 •	OpenCV
 •	LabelImg (https://github.com/HumanSignal/labelImg)
-
-
