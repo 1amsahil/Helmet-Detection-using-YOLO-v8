@@ -1,5 +1,10 @@
 # Helmet-Detection-using-YOLO-v8
-Helmet Detection using YOLOv8 in real-time
+This project focuses on leveraging the capabilities of YOLOv8 for helmet detection in real-time scenarios. By employing YOLOv8, we aim to enhance safety protocols by automatically identifying and monitoring individuals wearing or not wearing helmets .
+ 
+Real-Time Detection: YOLOv8 allows instantaneous identification of helmets, ensuring quick responses.
+Accuracy and Precision: Known for high accuracy, minimizing false positives and negatives in helmet detection.
+Scalability: Adaptable to various environments, camera setups, and lighting conditions.
+Integration: Can integrate seamlessly with existing surveillance systems for enhanced safety.
 
 # Software Required:
 •	Operating System
