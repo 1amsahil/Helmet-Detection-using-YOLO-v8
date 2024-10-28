@@ -15,8 +15,9 @@ Integration: Can integrate seamlessly with existing surveillance systems for enh
 •	OpenCV
 •	LabelImg (https://github.com/HumanSignal/labelImg)
 
-# How to Run in your Machine:
+# How to Run on your Machine:
 1. Download All files
 2. Add AdvHelmet.pt file in the same folder
-3. Open WebCam Python file  
-(NOTE: Helmet Detection ipynb shows the development , which is run in VS Code/Google Collab)
+3. Set Path According
+4. Open WebCam Python file to run the program  
+(NOTE: Helmet Detection ipynb file shows the development, Platform :- VS Code/Google Collab)
