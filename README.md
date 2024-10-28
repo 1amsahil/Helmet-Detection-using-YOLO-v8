@@ -18,6 +18,6 @@ Integration: Can integrate seamlessly with existing surveillance systems for enh
 # How to Run on your Machine:
 1. Download All files
 2. Add AdvHelmet.pt file in the same folder
-3. Set Path According
+3. Set Path Accordingly
 4. Open WebCam Python file to run the program  
 (NOTE: Helmet Detection ipynb file shows the development, Platform :- VS Code/Google Collab)
